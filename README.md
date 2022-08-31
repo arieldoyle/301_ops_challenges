@@ -1,2 +1,5 @@
-# 301_ops_challenges
-This is a directory to all my 301 ops challenges for my Code Fellows CyberOps
+# Table Of Contents
+
+## 301
+
+- [Class 02 OPS Challenge](copycattime.sh)
