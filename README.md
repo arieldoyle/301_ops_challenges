@@ -7,3 +7,4 @@
 - [Class 04 OPS Challenge](conditmenu.sh)
 - [Class 05 OPS Challenge](logclearning.sh)
 - [Class 06 OPS Challenge](pybash.py)
+- [Class 07 OPS Challenge](dircreation.py)
