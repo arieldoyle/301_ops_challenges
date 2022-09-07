@@ -21,10 +21,13 @@ res = []
 ### List to sotre file names
 for (root, dirs, files) in os.walk(path):
     ### Add a print command here to print ==root==
+    print('Here is the root file path:')
     print(root)
     ### Add a print command here to print ==dirs==
+    print('Here are the directories within the root path:')
     print(dirs)
     ### Add a print command here to print ==files==
+    print('Here are the files within the directories')
     print(files)
 
 # End
