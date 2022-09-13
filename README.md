@@ -11,3 +11,4 @@
 - [Class 08 OPS Challenge](pycollections.py)
 - [Class 09 OPS Challenge](acctcreation.ps1)
 - [Class 10 OPS Challenge](conditionalpy.py)
+- [Class 11 OPS Challenge](pythonfiles.py)
