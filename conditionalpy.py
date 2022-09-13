@@ -15,8 +15,12 @@
     # Create an if statement that includes both elif and else to execute when both if and elif are not met.
 
 # Compare Two Values
-a = 600
-b = 500
+a = input("Please input a random number for variable a: ")
+b = input("Please input a random number for variable b: ")
+
+# Turns input into an interger
+int(a)
+int(b)
 
 # Main
 
@@ -28,11 +32,11 @@ else:
 
 if a < b:
     print("a is less than b")
-elif a <= b:
-    print("a is less than or equal to b")
 elif a > b:
     print("a is greater than b")
-else:
+elif a >= b:
     print("a is greater than or equal to b")
+else:
+    print("a is less than or equal to b")
 
 # End
