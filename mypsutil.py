@@ -23,7 +23,7 @@ import psutil
 
 # Main
 print(psutil.cpu_times())
-print(psutil.threading())
+print(psutil.cpu_freq())
 print(psutil.net_io_counters())
 
 # End
