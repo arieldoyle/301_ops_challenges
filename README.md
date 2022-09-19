@@ -13,3 +13,5 @@
 - [Class 10 OPS Challenge](conditionalpy.py)
 - [Class 11 OPS Challenge](pythonfiles.py)
 - [Class 12 OPS Challenge](mypsutil.py)
+- [Class 13 OPS Challenge](pyrequests.py)
+- [Class 13 OPS Challenge](virusdemo.py)
